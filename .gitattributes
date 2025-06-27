@@ -1,0 +1,4 @@
+*.img filter=lfs diff=lfs merge=lfs -text
+*.lz4 filter=lfs diff=lfs merge=lfs -text
+*.rc filter=lfs diff=lfs merge=lfs -text
+*.contexts filter=lfs diff=lfs merge=lfs -text
